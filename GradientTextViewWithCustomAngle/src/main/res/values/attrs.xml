@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradientTextView">
+        <attr format="boolean" name="isVertical"/>
+        <attr format="color" name="startColor"/>
+        <attr format="color" name="endColor"/>
+        <attr format="float" name="angle"/>
+    </declare-styleable>
+</resources>
