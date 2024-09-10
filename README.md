@@ -1,5 +1,5 @@
 # GradientTextViewWithCustomAngle
-![alt text](https://github.com/Dat-PV-134/GradientTextViewWithCustomAngle/blob/main/demo.jpg)
+
 
 ## Implementation:
 Project setting gradle:
